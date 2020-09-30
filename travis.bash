@@ -1,0 +1,1 @@
+travis encrypt $(55a6f6d0-7f6d-4bdc-9c57-7e01c6775a57) --add deploy.api_key --pro
